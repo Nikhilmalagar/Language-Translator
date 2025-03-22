@@ -13,7 +13,7 @@ Installation 🔧
 sh
 Copy
 Edit
-git clone https://github.com/your-username/Language-Translator.git
+git clone https://github.com/Nikhilmalagar/Language-Translator.git
 cd Language-Translator
 2. Install Dependencies
 Make sure you have Python installed, then install the required libraries:
@@ -36,7 +36,8 @@ Enter the text in the input box
 Click the Translate button to get the translated text
 
 Screenshots 🖼
-(Add screenshots here if needed)
+![Screenshot 2025-03-22 111057](https://github.com/user-attachments/assets/825732e7-15e0-41d4-bdbc-ec1c43c89571)
+
 
 Project Structure 📁
 bash
@@ -56,4 +57,4 @@ Contributions are welcome! Feel free to submit a pull request or report issues.
 
 Author
 👤 Nikhil Malagar
-🔗 GitHub Profile
+🔗 
